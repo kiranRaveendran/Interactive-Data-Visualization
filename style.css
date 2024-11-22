@@ -15,7 +15,7 @@ body {
     padding: 1em;
     background-color: #ccc;
   }
-  
+ 
   .chart-row {
     display: flex;
     justify-content: space-evenly;
